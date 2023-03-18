@@ -1,0 +1,7 @@
+function openNav() {
+    document.getElementByid("myNav").style.width="100%";
+}
+
+function closeNav() {
+    doment.getElementByid("myNav").style.width="0%";
+}
